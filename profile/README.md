@@ -82,3 +82,24 @@ we do not have), we could also estimate the costs of applying the necessary meas
 - Python: For the data analysis.
 - Jupyter Notes: For the regression-model implementation.
 - Pandas & Matplotlib: For data visualization.
+
+# ED4ALL FrontEnd
+
+## About the project
+
+Ed 4 All is a solution for public and private education entities. The main goal is to facilitate decision-taking to address inequalities in Education in the city of Barcelona. This source aims to contribute to the achievement of one of the Sustainable Development Goals of the 2030 Agenda: QUALITY EDUCATION. It demonstrates the differences of every district in the city of Barcelona. 
+
+## Features
+
+- Data Analysis: Analyze various socio-economic factors to identify areas in need of educational investment.
+- Display of graphics to observe how the data varies from each district in Barcelona.
+- Interactive maps for a friendly user experience
+
+## Technologies
+
+- React with Vite: For the creation of the UI
+- Typescript: For safe type code
+- Tanstack Query: To realize the calls to the API
+- TailwindCSS: For styling of the web
+- DaisyUI: Component library.
+
